@@ -1,5 +1,5 @@
 # ZH-CLIP: A Chinese CLIP Model
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/thu-ml/zhclip)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/thu-ml/ZH-CLIP)
 
 ## Models
 You can download **ZH-CLIP** model from [🤗 thu-ml/zh-clip-vit-roberta-large-patch14](https://huggingface.co/thu-ml/zh-clip-vit-roberta-large-patch14). The model structure is shown below:
