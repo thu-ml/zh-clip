@@ -389,6 +389,6 @@ In addition, to compare the effectiveness of different methods, the inference me
 | 4	| [Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP)	| mclip |
 | 5	| [CLIP-Chinese](https://github.com/yangjianxin1/CLIP-Chinese)	| clip-chinese |
 
-Usage in [inference.py](https://github.com/yue-gang/ZH-CLIP/blob/main/inference.py)
+Usage in [inference.py](https://github.com/thu-ml/zh-clip/blob/main/inference.py)
 
 
