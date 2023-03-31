@@ -5,8 +5,8 @@ from models.zhclip import ZhCLIPProcessor, ZhCLIPModel
 class ZhClipWrapper(nn.Module):
     def __init__(self):
         super().__init__()
-        self.model = ZhCLIPModel.from_pretrained('hf_models/zh-clip-vit-roberta-large-patch14-v2/')
-        processor = ZhCLIPProcessor.from_pretrained('hf_models/zh-clip-vit-roberta-large-patch14-v2/')
+        self.model = ZhCLIPModel.from_pretrained('thu-ml/zh-clip-vit-roberta-large-patch14')
+        processor = ZhCLIPProcessor.from_pretrained('thu-ml/zh-clip-vit-roberta-large-patch14')
         self.tokenizer = processor.tokenizer
         self.transform = processor.image_processor
 
