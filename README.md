@@ -6,7 +6,7 @@ You can download **ZH-CLIP** model from [🤗 thu-ml/zh-clip-vit-roberta-large-p
 * Vision encoder network structure is the same as [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14), and initialize with [laion/CLIP-ViT-L-14-laion2B-s32B-b82K](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K).
 * Text encoder network struceure is the same as [hfl/chinese-roberta-wwm-ext-large](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large) and initialized.
 ## Results
-** Please note that we tried to maintain consistency with the majority of comparative models in terms of scale. However, some models used smaller text encoders (eg. CNCLIP), so the following comparisons may not be entirely fair. ** 
+**Please note that we tried to maintain consistency with the majority of comparative models in terms of scale. However, some models used smaller text encoders (eg. CNCLIP), so the following comparisons may not be entirely fair.** 
 #### COCO-CN Retrieval (Official Test Set):
 <table>
   <thead>
